@@ -86,7 +86,7 @@ Vehicles range from 1982 to 2015, with most transactions involving vehicles from
 Condition ratings range from 1 to 49, with a median of 35, indicating that most vehicles are in fair-to-good condition.
 
 .Odometer:
-The mileage varies widely, with a range from 1 mile to nearly 1,000,000 miles, and a median around 52,254 miles. Higher mileage typically correlates with lower .
+The mileage varies widely, with a range from 1 mile to nearly 1,000,000 miles, and a median around 52,254 miles. Higher mileage typically correlates with lower 
 selling prices.
 
 .MMR and Selling Price:
