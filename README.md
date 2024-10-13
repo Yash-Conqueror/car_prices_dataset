@@ -1,5 +1,4 @@
 # car_prices_dataset
-# car_prices_dataset
 ![kenny-leys-7qLym89s69c-unsplash](https://github.com/user-attachments/assets/c2a7ec4d-3a6b-496c-a48f-0ebfaee11aa5)
 ## Business Understanding for Vehicle Sales and Market Trends Project
 ## Objective:
